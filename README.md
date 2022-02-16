@@ -4,5 +4,5 @@ satu
 dua
 tiga
 lima
-
+enam
 
