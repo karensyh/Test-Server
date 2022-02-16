@@ -5,4 +5,4 @@ dua
 tiga
 lima
 enam
-
+tujuh
